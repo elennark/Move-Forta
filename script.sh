@@ -9,6 +9,7 @@ echo -e "\e[1m\e[32m4. Enter RPC url \e[0m"
 read -p "Enter RPC url: " FORTA_RPC_URL
 
 echo "=================================================="
+echo "=================================================="
 
 echo -e "\e[1m\e[32m Forta Passphrase: \e[0m" $FORTA_PASSPHRASE
 echo -e "\e[1m\e[32m Forta Owner Address:  \e[0m" $FORTA_OWNER_ADDRESS
